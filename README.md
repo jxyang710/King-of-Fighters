@@ -26,8 +26,8 @@ python game.py
 
 ## TODO List
 
-- [ ] more actions and combos to be implemented
-- [ ] more roles to be added
+- [ ] more actions and combos to be implemented.
+- [ ] more roles and bac to be added.
 
 ## Acknowledgement
 
