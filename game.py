@@ -1,9 +1,9 @@
 import os
 import pygame
 
-from config import SCREEN_WIDTH, SCREEN_HEIGHT, Config
-from role import Role
-from utils import *
+from modules.config import SCREEN_WIDTH, SCREEN_HEIGHT, Config
+from modules.role import Role
+from modules.utils import *
 
 
 pygame.init()
@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("King of Fighters")
 
 bg = load_background(os.path.join('assets', 'background'))
-role1_config = Config('chris', True)
+role1_config = Config('kyo', True)
 role1 = Role('kyo', False, role1_config)
 role2_config = Config('chris', False)
 role2 = Role('kyo', True, role2_config)
