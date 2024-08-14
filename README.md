@@ -1,6 +1,6 @@
 # King of Fighters
 
-This repo is a simple implementation of the game "The King of Fighters (KOF)", whose Chinese name is "拳皇", using Python.
+This project is a simple implementation of the game "The King of Fighters (KOF)", whose Chinese name is "拳皇", using Python.
 
 ## Environment
 
@@ -27,7 +27,7 @@ python game.py
 ## TODO List
 
 - [ ] more actions and combos to be implemented.
-- [ ] more roles and bac to be added.
+- [ ] more roles and backgrounds to be added.
 
 ## Acknowledgement
 
