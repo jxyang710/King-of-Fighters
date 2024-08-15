@@ -14,7 +14,7 @@ bg = load_background(os.path.join('assets', 'background'))
 role1_config = Config('kyo', True)
 role1 = Role('kyo', False, role1_config)
 role2_config = Config('chris', False)
-role2 = Role('kyo', True, role2_config)
+role2 = Role('chris', True, role2_config)
 
 cur_key = None
 frame = 0
