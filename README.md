@@ -7,7 +7,7 @@ This project is a simple implementation of the game "The King of Fighters (KOF)"
 1. Clone this repo via:
 
 	```bash
-	git clone https://github.com/jixuyang21/King-of-Fighers.git
+	git clone https://github.com/jixuyang21/King-of-Fighters.git
 	```
 
 2. Install the necessary packages via:
