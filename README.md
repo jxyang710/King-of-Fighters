@@ -2,7 +2,7 @@
 
 This repo is a simple implementation of the game "The King of Fighters (KOF)" using Python.
 
-![kof](.\assets\kof.jpg)
+![kof](./assets/kof.jpg)
 
 ## Environment
 
