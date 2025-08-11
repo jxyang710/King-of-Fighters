@@ -8,14 +8,14 @@ This repo is a simple implementation of the game "The King of Fighters (KOF)" us
 
 1. Clone this repo via:
 
-	```bash
-	git clone https://github.com/jixuyang21/King-of-Fighters.git
-	```
+  ```bash
+  git clone https://github.com/jxyang710/King-of-Fighters.git
+  ```
 
 2. Install the necessary packages via:
 
 	```bash
-	pip install pygame==2.6.0
+	pip install pygame
 	```
 
 ## Execution
@@ -23,6 +23,7 @@ This repo is a simple implementation of the game "The King of Fighters (KOF)" us
 Run the game via:
 
 ```bash
+cd King-of-Fighters
 python game.py
 ```
 
