@@ -2,6 +2,8 @@
 
 This repo is a simple implementation of the game "The King of Fighters (KOF)" using Python.
 
+![image-20250812013758091](D:\Desktop\images\Typora-images\image-20250812013758091.png)
+
 ## Environment
 
 1. Clone this repo via:
